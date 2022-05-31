@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 7c94e1cd30beed8429984a0d60f11fef
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BezierCircle
+    100002: NurbsCircle
+    100004: NurbsCircle.001
+    100006: NurbsCircle.002
+    100008: NurbsCircle.003
+    100010: NurbsCircle.004
+    100012: NurbsCircle.005
+    100014: NurbsCircle.006
+    100016: NurbsCircle.007
+    100018: NurbsCircle.008
+    100020: NurbsCircle.009
+    100022: NurbsCircle.010
+    100024: NurbsCircle.011
+    100026: //RootNode
+    400000: BezierCircle
+    400002: NurbsCircle
+    400004: NurbsCircle.001
+    400006: NurbsCircle.002
+    400008: NurbsCircle.003
+    400010: NurbsCircle.004
+    400012: NurbsCircle.005
+    400014: NurbsCircle.006
+    400016: NurbsCircle.007
+    400018: NurbsCircle.008
+    400020: NurbsCircle.009
+    400022: NurbsCircle.010
+    400024: NurbsCircle.011
+    400026: //RootNode
+    2100000: No Name
+    2300000: BezierCircle
+    2300002: NurbsCircle
+    2300004: NurbsCircle.001
+    2300006: NurbsCircle.002
+    2300008: NurbsCircle.003
+    2300010: NurbsCircle.004
+    2300012: NurbsCircle.005
+    2300014: NurbsCircle.006
+    2300016: NurbsCircle.007
+    2300018: NurbsCircle.008
+    2300020: NurbsCircle.009
+    2300022: NurbsCircle.010
+    2300024: NurbsCircle.011
+    3300000: BezierCircle
+    3300002: NurbsCircle
+    3300004: NurbsCircle.001
+    3300006: NurbsCircle.002
+    3300008: NurbsCircle.003
+    3300010: NurbsCircle.004
+    3300012: NurbsCircle.005
+    3300014: NurbsCircle.006
+    3300016: NurbsCircle.007
+    3300018: NurbsCircle.008
+    3300020: NurbsCircle.009
+    3300022: NurbsCircle.010
+    3300024: NurbsCircle.011
+    4300000: NurbsCircle.011
+    4300002: NurbsCircle.010
+    4300004: NurbsCircle.009
+    4300006: NurbsCircle.008
+    4300008: NurbsCircle.007
+    4300010: NurbsCircle.006
+    4300012: NurbsCircle.005
+    4300014: NurbsCircle.004
+    4300016: NurbsCircle.003
+    4300018: NurbsCircle.002
+    4300020: NurbsCircle.001
+    4300022: BezierCircle
+    4300024: NurbsCircle
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
